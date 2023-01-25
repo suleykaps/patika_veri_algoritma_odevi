@@ -1,0 +1,1 @@
+# patika_veri_algoritma_odevi
